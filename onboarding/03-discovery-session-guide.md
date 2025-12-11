@@ -69,7 +69,8 @@ We ask about barriers: technical, emotional, political, logistical, safety-relat
 - **How do you like to collaborate?** Async/sync preferences, tools, pace
 - **What's your capacity?** Time, energy, competing commitments
 - **Are there specific risks we should be aware of?** Safety, legal, reputational
-- **What's your relationship to the broader ecosystem?** Existing connections, communities
+- **What's your relationship to the broader ecosystem?** Existing connections, communities, conferences, cohorts
+- **What's your current funding situation?** Grants, self-funded, looking for support, runway
 
 ## What We Capture
 
@@ -79,6 +80,8 @@ Internally, we document:
 - The founder's stated goals and success criteria
 - The main obstacles they named
 - Collaboration preferences and constraints
+- Current funding situation
+- Ecosystem connections
 - Safety or privacy considerations
 - Our initial thoughts on Foundry, Lab, or Studio fit
 - Recommended next steps
@@ -109,6 +112,12 @@ AOS participants: [Names]
 - Async/sync: [preference]
 - Tools: [preferred tools]
 - Capacity: [availability]
+
+### Funding situation
+- [Current grants, self-funded, runway]
+
+### Ecosystem connections
+- [Relevant communities, cohorts, conferences, collaborators]
 
 ### Safety/privacy notes
 - [Any relevant considerations]
